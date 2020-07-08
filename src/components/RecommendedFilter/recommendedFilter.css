@@ -1,0 +1,11 @@
+.recommended__select {
+    position: absolute;
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+.selected__card {
+    border: 1px solid coral;
+}
